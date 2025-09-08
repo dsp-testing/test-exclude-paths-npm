@@ -11,6 +11,7 @@ updates:
       interval: "daily"
     exclude-paths:
       - "src/test/assets/**"
+      - "src/test/shared-lib/*"
       - "vendor/**"
       - "docs/**"
       - "src/test/helper.js"
