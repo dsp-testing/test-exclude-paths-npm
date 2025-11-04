@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "^5.1.0",
     "socket.io": "^4.6.0",
-    "mongoose": "^6.0.0",
+    "mongoose": "^8.19.3",
     "@test/shared-lib": "file:../../src/test/shared-lib"
   }
 }
